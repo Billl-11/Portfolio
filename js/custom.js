@@ -104,7 +104,8 @@ $(document).ready(function () {
     });
 
     //animatedModal
-    $("#demo01,#demo02").animatedModal();
+    $("#demo01").animatedModal1();
+    $("#demo02").animatedModal2();
 
     // Contact Form 	
 
