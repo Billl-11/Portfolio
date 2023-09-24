@@ -447,7 +447,7 @@ a.active {
     padding: 0.25em 1em 0.2em 1em;
 }
 
-.responsibilities {
+.responsibilities{
     list-style-type: square;
     margin-top: -20px;
     margin-left: -20px; 
@@ -483,6 +483,16 @@ a.active {
     padding: 10px 0;
 }
 
+.techstack{
+    list-style-type: square;
+    /* margin-top: -20px; */
+    margin-left: -20px; 
+    text-align: justify;
+}
+
+.justify {
+    text-align: justify;
+  }
 #projects {
     padding: 100px 0;
 }
