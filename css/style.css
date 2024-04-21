@@ -470,14 +470,14 @@ a.active {
   }
 
 .separator {
-    border-top: 2px solid #706e6e; 
+    border-top: 2px solid #0b1993; 
     margin: 20px 0; 
     width: 100%;
 }
 
 .project_header {
     font-family: 'Montserrat', sans-serif;
-    font-size: 25px;
+    font-size: 22px;
     font-weight: 550; 
     line-height: 30px;
     padding: 10px 0;
@@ -663,7 +663,8 @@ a.active {
 }
 
 .animatedModal1-on .close-popup-modal,
-.animatedModal2-on .close-popup-modal {
+.animatedModal2-on .close-popup-modal,
+.animatedModal3-on .close-popup-modal {
     opacity: 1;
 }
 
